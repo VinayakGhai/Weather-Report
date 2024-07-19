@@ -41,8 +41,5 @@ This Python script provides weather information for Mumbai, including temperatur
 - Ensure you have an active internet connection as the script fetches data from external APIs.
 - Customize the `config.py` file with your API key for the Weatherbit API.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 If you have any questions, feel free to contact [your email](mailto:your.email@example.com).
