@@ -42,4 +42,5 @@ This Python script provides weather information for Mumbai, including temperatur
 - Customize the `config.py` file with your API key for the Weatherbit API.
 
 ## Contact
-If you have any questions, feel free to contact [your email](mailto:your.email@example.com).
+If you have any questions, feel free to contact [Vinayak Ghai](mailto:vinayakghai4ever@gmail.com)
+.
